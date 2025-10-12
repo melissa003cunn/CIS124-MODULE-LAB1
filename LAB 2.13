@@ -5,9 +5,13 @@
    <title>Sometown USA</title>
 </head>
 <body>
+   <section>
    <h1>Sometown USA</h1>
    <h2>Location</h2>
    <p>Sometown is located 50 miles west of another town in Somestate.</p>
+   </section>
+
+   <section>
    <h2>About</h2>
    <h3>Weather</h3>
    <p>It's warm all year.</p>
@@ -15,10 +19,14 @@
    <p>Around 25,000 people call Sometown home.</p>
    <h3>Sports</h3>
    <p>Basketball and football are popular sports in Sometown</p>
+   </section>
+
+   <section>
    <h2>Things to do</h2>
    <ul>
       <li>Fishing</li>
       <li>Hiking</li>
       <li>See the sights</li>
    </ul>
+   </section>
 </body>
